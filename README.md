@@ -65,7 +65,7 @@ O acúmulo de arquivos físicos e digitais, como receitas médicas digitalizadas
 ### 🏆 Vantagens:
 - Custo extremamente baixo por GB armazenado
 - Política de arquivamento com *S3 Glacier* (para arquivos antigos)
-- Alta durabilidade (99,999999999%) e disponibilidade
+- Alta durabilidade (99,99%) e disponibilidade
 - Controle de acesso por usuário e criptografia automática
 
 ---
